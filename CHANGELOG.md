@@ -1,4 +1,6 @@
-## 0.10.4 (Unreleased)
+## 0.10.5 (Unreleased)
+
+**NOTE** this repo is for reproducing something, please odn't use this
 
 IMPROVEMENTS:
 * `terraform apply` now uses the standard resource address syntax to refer to resources in its log [GH-15884]
