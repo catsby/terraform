@@ -1,6 +1,8 @@
-## 0.10.5 (September 07, 2017)
+## 0.10.6 (Unreleased)
 
 **NOTE** this repo is for reproducing something, please odn't use this
+
+## 0.10.5 (September 07, 2017)
 
 IMPROVEMENTS:
 * `terraform apply` now uses the standard resource address syntax to refer to resources in its log ([#15884](https://github.com/hashicorp/terraform/issues/15884))
