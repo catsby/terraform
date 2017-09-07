@@ -1,4 +1,4 @@
-## 0.10.6 (Unreleased)
+## 0.10.6 (September 07, 2017)
 
 **NOTE** this repo is for reproducing something, please odn't use this
 
